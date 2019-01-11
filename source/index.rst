@@ -14,8 +14,6 @@ Hummingbot Documentation
 - `Hummingbot homepage <https://hummingbot.io>`_
 - `Hummingbot whitepaper <https://hummingbot.io/docs/whitepaper/index.html>`_
 - `Github <https://github.com/coinalpha/>`_
-- :ref:`search`
-
 
 
 ********************
@@ -56,8 +54,23 @@ Command to initialize Hummingbot::
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: General
 
    0-whitepaper
-   0-commands
    0-terminology
+   0-faq
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Usage
+
+   1-quick-start
+   1-commands
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Exchange APIs
+
+   2-binance
+   2-ddex
+   2-radar-relay
