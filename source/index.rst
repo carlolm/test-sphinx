@@ -58,5 +58,6 @@ Command to initialize Hummingbot::
    :maxdepth: 2
    :caption: Contents:
 
+   0-whitepaper
    0-commands
    0-terminology
